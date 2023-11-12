@@ -10,7 +10,7 @@ ___
 
 ---
 
-A game where we throw a certain number of bars onto the central spinning wheel.
+A game where we throw a certain number of sticks onto the central spinning wheel.
 
 ### Tech Stack
 
