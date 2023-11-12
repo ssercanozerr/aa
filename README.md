@@ -39,7 +39,7 @@ When we run our project, we are greeted with the interface as shown below. To st
 
 * Game Scene
 
-We try to throw the bars onto the spinning wheel without colliding with each other. A frame from the game is provided below.
+We try to throw the sticks onto the spinning wheel without colliding with each other. A frame from the game is provided below.
 
 ![Ekran görüntüsü 2023-11-12 014422](https://github.com/ssercanozerr/aa/assets/83230914/70ec4db8-1c16-40eb-8f31-183561ae04d1)
 
